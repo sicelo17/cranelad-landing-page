@@ -1,0 +1,29 @@
+body{
+    font-family: 'Coiny', cursive;
+  }
+  header .carousel-inner .item{
+    height: 100vh;
+  }
+  .navbar{
+      background: transparent;
+  }
+  header .carousel-inner .item img{
+    width: 100%;
+  }
+  .carousel-caption{
+    padding-bottom: 25%;
+  }
+  .carousel-caption h2{
+    font-size: 50px;
+    text-transform: uppercase;
+  }
+  .carousel-control.right{
+    background-image: none;
+  }
+  .carousel-control.left{
+    background-image: none;
+  }
+.somesha .btn:hover {
+    background-color: blueviolet;
+    color: #fff;
+}
